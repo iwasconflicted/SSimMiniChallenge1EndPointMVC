@@ -1,0 +1,6 @@
+@SSimMiniChallenge1EndPointMVC_HostAddress = http://localhost:5153
+
+GET {{SSimMiniChallenge1EndPointMVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
